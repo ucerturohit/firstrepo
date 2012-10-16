@@ -1,6 +1,7 @@
 <?php
 /*
-This file contains the functions
+I am gonna change in this file 
+yThis file contains the functions
 that performs the DB operation. The 
 Database properties are taken from the
 session.
